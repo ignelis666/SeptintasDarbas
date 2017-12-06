@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d126e84-d318-49ce-9278-a9005aa9b16d" name="Default" comment="" />
+    <list default="true" id="1d126e84-d318-49ce-9278-a9005aa9b16d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -32,12 +35,120 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1512588722212" expanded="true" signature="64258:64275" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64258:64293" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64258:64306" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64258:64321" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64356:66581" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64369:66566" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64423:64718" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64442:64703" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64505:64683" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64545:64649" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64566:64627" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64768:65095" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64787:65080" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64882:65060" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64922:65026" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="64943:65004" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65146:65411" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65165:65396" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65198:65376" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65238:65342" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65259:65320" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65454:65760" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65473:65745" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65547:65725" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65587:65691" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65608:65669" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65811:66173" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65830:66158" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65921:66138" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65961:66104" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="65982:66082" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="66225:66552" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="66244:66537" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="66339:66517" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="66379:66483" ph="..." />
+                <marker date="1512588722212" expanded="true" signature="66400:66461" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skaiciavimai.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Skaiciavimai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding>
+                <element signature="e#57#58#0" expanded="true" />
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SkaiciavimaiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SkaiciavimaiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConverterTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ConverterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1281">
+              <caret line="61" column="52" lean-forward="false" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#1027#1028#0" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1236#1237#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,9 +158,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -339,6 +454,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Skaiciavimai.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SkaiciavimaiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConverterTest.java" />
       </list>
     </option>
   </component>
@@ -353,6 +472,7 @@
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -382,7 +502,33 @@
             <path>
               <item name="Septint" type="b2602c69:ProjectViewProjectNode" />
               <item name="Septintas" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Septint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Septintas" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Septint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Septintas" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Septint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Septintas" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Septint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Septintas" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -395,8 +541,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -410,7 +565,87 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ConverterTest">
+    <configuration name="ConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Septint_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConverterTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SkaiciavimaiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Septint_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SkaiciavimaiTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SkaiciavimaiTest.dalyba" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Septint_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SkaiciavimaiTest" />
+      <option name="METHOD_NAME" value="dalyba" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SkaiciavimaiTest.plotas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Septint_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SkaiciavimaiTest" />
+      <option name="METHOD_NAME" value="plotas" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -492,9 +727,26 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest.plotas" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest.dalyba" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ConverterTest" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ConverterTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest.dalyba" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SkaiciavimaiTest.plotas" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -503,12 +755,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512577363015</updated>
-      <workItem from="1512577438421" duration="640000" />
+      <workItem from="1512577438421" duration="9727000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 19h 26m 25s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 19h 27m 28s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 35m 51s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 36m 27s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 40m 08s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 41m 08s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 41m 39s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest - 2017.12.06 at 20h 44m 00s.xml">
+      <configuration name="SkaiciavimaiTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest_dalyba - 2017.12.06 at 20h 42m 16s.xml">
+      <configuration name="SkaiciavimaiTest.dalyba" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkaiciavimaiTest_plotas - 2017.12.06 at 19h 27m 48s.xml">
+      <configuration name="SkaiciavimaiTest.plotas" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640000" />
+    <option name="totallyTimeSpent" value="9727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -516,17 +800,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5120087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22052401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -554,6 +839,59 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512588722212" expanded="true" signature="64258:64275" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64258:64293" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64258:64306" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64258:64321" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64356:66581" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64369:66566" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64423:64718" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64442:64703" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64505:64683" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64545:64649" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64566:64627" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64768:65095" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64787:65080" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64882:65060" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64922:65026" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="64943:65004" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65146:65411" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65165:65396" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65198:65376" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65238:65342" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65259:65320" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65454:65760" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65473:65745" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65547:65725" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65587:65691" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65608:65669" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65811:66173" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65830:66158" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65921:66138" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65961:66104" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="65982:66082" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="66225:66552" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="66244:66537" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="66339:66517" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="66379:66483" ph="..." />
+            <marker date="1512588722212" expanded="true" signature="66400:66461" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -565,11 +903,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Skaiciavimai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <element signature="e#57#58#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SkaiciavimaiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="52" lean-forward="false" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -625,7 +1010,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Septint_main|Septint</last-edited>
+          <last-edited>Septint_test|Septint</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
