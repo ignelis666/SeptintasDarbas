@@ -28,12 +28,12 @@ public class SkaiciavimaiTest {
 
     @Test
     public void dalyba() throws Exception {
-        Assert.assertEquals(7,skaiciavimai.dalyba(21,3));
+        Assert.assertEquals(7,skaiciavimai.dalyba(21,3),1);
     }
 
     @Test
     public void sunkesnisVeiksmas() throws Exception {
-        Assert.assertEquals(4.0,skaiciavimai.sunkesnisVeiksmas(4,2.5,5,0.5));
+        Assert.assertEquals(4.0,skaiciavimai.sunkesnisVeiksmas(4,2.5,5,0.5),1);
     }
 
     @Test
